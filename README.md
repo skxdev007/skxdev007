@@ -1,180 +1,27 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
-</div>
+# 💫 About Me:
+<br>## 🎯 Current Focus<br><br>- 🔭 Working on **Trinetra — Multi-Agent AI Research System**<br>- 🌍 Studying & contributing to **OG CLEWS + MUIO integrations (UN Open Source Ecosystem)**<br>- 🧠 Researching **Multi-Agent AI, RAG Systems & Computational Intelligence**<br>- 🤝 Preparing for **Google Summer of Code (GSoC)**<br>- 💬 Ask me about: **LLMs, LangGraph, RAG, FastAPI, AI Systems Design**<br>
 
-# 👨‍💻 S Khavin
-### Student • NLP Researcher • AI Systems Builder • Open Source Contributor
 
-<div align="center">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/S-Khavin33) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/skxdev) 
 
-🚀 Building intelligent systems at the intersection of **AI, Research, and Scalable Infrastructure**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=skxdev007&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=skxdev007&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=skxdev007&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=skxdev007&theme=nightowl&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 🎯 Current Focus
-
-- 🔭 Working on **Trinetra — Multi-Agent AI Research System**
-- 🌍 Studying & contributing to **OG CLEWS + MUIO integrations (UN Open Source Ecosystem)**
-- 🧠 Researching **Multi-Agent AI, RAG Systems & Computational Intelligence**
-- 🤝 Preparing for **Google Summer of Code (GSoC)**
-- 💬 Ask me about: **LLMs, LangGraph, RAG, FastAPI, AI Systems Design**
-
----
-
-## 🎓 Education
-
-**BE Computer Science Engineering**  
-Sathyabama Institute of Science and Technology (2023–2027)
-
-**Generative AI Nanodegree (Scholarship)**  
-Udacity × Bertelsmann
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=skxdev007&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=skxdev007&icon=9&color=7)](https://visitcount.itsvg.in)
 
-## 💼 Professional Experience
-
-### 💻 SWE Co-Op Intern — AlgoUniversity (YC-backed)
-**Jun 2025 – Aug 2025**
-
-- Built a **cloud-native Online Judge platform** using Django + Next.js
-- Developed Kubernetes-based **multi-language execution engine**
-- Secure sandboxing with resource isolation & RBAC
-- Designed microservices with REST APIs & JWT authentication
-- Implemented autoscaling + observability (Prometheus & Grafana)
-- Supported **1M+ daily submissions**
-- Achieved **<700ms API latency**
-
----
-
-### 📊 Business Analytics Intern — Business.io (IIT Madras)
-**Feb 2025 – Jul 2025**
-
-- Selected among 100+ applicants for HeroMotoCorp research project
-- Performed market & consumer behavior analysis
-- Built Tableau dashboards for strategic insights
-- Delivered actionable business intelligence reports
-
----
-
-## 🚀 Featured Projects
-
----
-
-### 🧠 Trinetra — Multi-Agent AI Research System
-🔗 https://skxdev007.github.io/sharingan/
-
-- Multi-agent AI framework inspired by research architectures
-- Intelligent reasoning pipelines using LLM orchestration
-- Dynamic context-aware query resolution
-- Designed for scalable research experimentation
-
-**Tech:** LangGraph • FastAPI • Python • Multi-Agent Systems • RAG
-
----
-
-### 🧩 Marin — AI Mental Health Assistant
-🏆 Google Gen AI Exchange Hackathon Winner (Top Project Nationwide)
-
-- Multi-agent RAG system delivering evidence-based mental health support
-- Emotion detection + knowledge-grounded reasoning
-- Built using LangChain, LangGraph & Pinecone
-- Reduced latency from **5s → 0.8s**
-
----
-
-### 🚌 SIST Transit+ — Real-Time Bus Tracking Platform
-
-- Real-time tracking for **1500+ students & 300+ buses**
-- FastAPI + Redis + WebSockets backend
-- Flutter app with live maps
-- Reduced missed commutes by **95%**
-
----
-
-### 🧬 Sharingan-Core (In Development)
-
-- Python library enabling LLMs to understand videos in real time
-- OpenCV-based video intelligence processing
-- Designed for multimodal AI systems
-
----
-
-## 🧠 Research & Open Source
-
-- 📄 Working on research paper systems architecture (**Trinetra**)
-- 🌐 Exploring **UN Open Source integrations**
-  - OG CLEWS
-  - MUIO ecosystem
-- 🤖 Multi-agent AI & Retrieval-Augmented Generation research
-- 🧪 NLP & Computational Neuroscience enthusiast
-
----
-
-## 🏆 Achievements
-
-- 🥇 Google Gen AI Exchange Hackathon — Nationwide Winner
-- 🎓 Udacity Next Gen Tech Booster Scholar (Top 500 / 17,000 globally)
-- 🚀 AlgoUniversity Technology Fellowship — Top 5% of 20,000 applicants
-- 🏅 National Entrepreneurship Challenge — IIT Bombay (5th place nationwide)
-- 💻 Contributor — GirlScript Summer of Code
-- 🧠 Data Science Co-Lead — Omdena
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-Python • Java • C • SQL • HTML • CSS
-
-### 🤖 AI & ML
-LangChain • LangGraph • RAG • PyTorch • Pandas • FastAPI • Streamlit
-
-### ⚙️ Systems & Backend
-Django • Kubernetes • Redis • Celery • PostgreSQL • REST APIs
-
-### 📊 Visualization
-Tableau • Matplotlib • Seaborn • Flourish
-
-### ☁️ Tools
-Docker • Git • Prometheus • Grafana
-
----
-
-## 📊 GitHub Dashboard
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skxdev007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skxdev007&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skxdev007&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-S%20Khavin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/s-khavin33/)
-[![GitHub](https://img.shields.io/badge/GitHub-skxdev007-black?style=for-the-badge&logo=github)](https://github.com/skxdev007)
-[![Email](https://img.shields.io/badge/Email-academic.skhavin@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:academic.skhavin@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](https://skhavindev.framer.website/)
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 *"Building intelligent systems that understand context, reasoning, and humans."*
-
-⭐ Feel free to explore and star repositories!
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
