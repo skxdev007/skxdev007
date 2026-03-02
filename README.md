@@ -1,5 +1,6 @@
 <div align="center">
-
+  
+<img width="1919" height="670" alt="image" src="https://github.com/user-attachments/assets/0df4bed8-e225-47e0-bb5e-0879a4b823cb" />
 # S Khavin
 
 ### 🧠 Student • AI Researcher • NLP Engineer • Systems Builder
