@@ -20,7 +20,7 @@ Building intelligent, production grade systems at the intersection of
 - 🔭 Working on **Trinetra — Novel video understanding system**
 - 🌍 Studying & contributing to **OG CLEWS + MUIO integrations (UN Open Source Ecosystem)**
 - 🧠 Researching **Multi-Agent AI, RAG Systems & Computational Intelligence**
-- 🤝 Preparing for **Google Summer of Code (GSoC)**
+- 🤝 Preparing for **Open source contributions**
 - 💬 Ask me about: **LLMs, LangGraph, RAG, FastAPI, AI Systems Design**
 
 ---
